@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </a>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sonam_Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonamyadav9022/)
 
