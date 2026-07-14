@@ -771,31 +771,11 @@ Modern full-stack task management platform with authentication, CRUD operations,
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SonamYadav9022&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/SonamYadav9022/SonamYadav9022/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 📊 Contribution Summary
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=SonamYadav9022&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 
 </div>
 
