@@ -745,9 +745,9 @@ Modern full-stack task management platform with authentication, CRUD operations,
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SonamYadav9022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180" src="https://github-readme-stats-two-virid-40.vercel.app/api?username=SonamYadav9022&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonamYadav9022&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats-two-virid-40.vercel.app/api/top-langs?username=SonamYadav9022&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12"/>
 
 </div>
 
