@@ -1,384 +1,250 @@
-<!-- ============================================================= -->
-<!--                     PREMIUM GITHUB PROFILE                    -->
-<!-- ============================================================= -->
-
-<p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,25,26&text=SONAM%20YADAV&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20•%20AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=56&descSize=22"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+Software+that+Solves+Real+Problems.;Java+%7C+Spring+Boot+%7C+React+Developer.;AI+Powered+Product+Builder.;Always+Learning.+Always+Building.;Open+to+Software+Engineering+Opportunities."/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Software%20Engineer-4F46E5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI%20Engineer-6D28D9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Learner-8B5CF6?style=for-the-badge"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Oracle%20OCI%20Generative%20AI-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Smart%20India%20Hackathon-2025%20Finalist-4F46E5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Computer%20Engineering-Graduate-5B21B6?style=for-the-badge"/>
-
-</p>
-
----
-
-# 👋 Hello, I'm Sonam Yadav
-
-I'm a **Software Engineer** passionate about building scalable applications, designing intelligent systems, and creating products that make a real impact.
-
-My primary interests are:
-
-- Enterprise Java Development
-- Backend Engineering
-- Artificial Intelligence
-- Product Engineering
-- Full Stack Development
-- Cloud Technologies
-- Open Source
-
-I enjoy transforming ideas into production-ready software while continuously improving my engineering skills.
-
----
-
-# 🚀 About Me
-
-```text
-Name            : Sonam Yadav
-
-Location        : Pune, Maharashtra, India
-
-Role            : Software Engineer
-
-Education       : B.E. Computer Engineering
-
-Specialization  : Java • AI • Full Stack
-
-Current Focus   : Enterprise Backend Engineering
-
-Learning        : Spring Boot
-                  Docker
-                  Kubernetes
-                  AWS
-                  System Design
-                  Machine Learning
-
-Career Goal     : Build scalable software products used by millions.
-```
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:sonamyadav246810@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/sonamyadav9022/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<a href="https://github.com/SonamYadav9022">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-<a href="YOUR_PORTFOLIO_LINK">
-
-<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SonamYadav9022&label=Profile%20Views&color=6D28D9&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/SonamYadav9022?style=for-the-badge&color=6D28D9&label=Followers"/>
-
-<img src="https://img.shields.io/github/stars/SonamYadav9022?style=for-the-badge&color=6D28D9&label=Stars"/>
-
-</p>
-
----
-
-# 💡 Engineering Mindset
-
-> *"I believe great software is not just about writing code—it's about solving meaningful problems through scalable architecture, clean design, continuous learning, and thoughtful collaboration."*
-
----
-
-<p align="center">
-
-### ⭐ Building Today for Tomorrow's Technology ⭐
-
-</p>
-
----
-<!-- ============================================================= -->
-<!--                     TECH STACK & EXPERTISE                    -->
-<!-- ============================================================= -->
-
-# ⚡ Tech Arsenal
+<!-- ========================================================== -->
+<!--                  SONAM YADAV | GITHUB PROFILE              -->
+<!-- ========================================================== -->
 
 <div align="center">
 
-### Languages
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,25,30&text=SONAM%20YADAV&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=60&descSize=22"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,sql&theme=dark"/>
-</p>
+</div>
 
-### Frontend Development
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark"/>
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,prisma&theme=dark"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark"/>
-</p>
-
-### Cloud • DevOps • Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,vercel&theme=dark"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&duration=3000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+Software+That+Matters.;Java+Backend+Developer.;AI+Product+Builder.;Spring+Boot+%7C+React+%7C+Next.js.;Always+Learning.+Always+Building."/>
 
 </div>
 
 ---
 
-# 🧠 Engineering Expertise
+<div align="center">
 
-| Domain | Level | Experience |
-|---------|:----:|-----------|
-| ☕ Java Development | ██████████ | Enterprise backend development |
-| 🌱 Spring Boot | █████████ | REST APIs, Security, Authentication |
-| ⚛ React & Next.js | █████████ | Modern Full Stack Development |
-| 🛢 SQL & Databases | █████████ | MySQL, PostgreSQL, SQLite |
-| 🤖 Artificial Intelligence | ████████ | AI-powered applications & LLM integration |
-| 📊 Machine Learning | ███████ | Classification, Data Analysis |
-| ☁ Cloud Computing | ██████ | AWS & Vercel Deployment |
-| 🐳 Docker | █████ | Currently mastering containerization |
-| 🏗 System Design | █████ | Learning scalable architectures |
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Coming_Soon-6D28D9?style=for-the-badge)](#)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sonam_Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonamyadav9022/)
 
-# 💻 Core Engineering Skills
+[![Email](https://img.shields.io/badge/Gmail-sonamyadav246810@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonamyadav246810@gmail.com)
 
-<table>
+[![GitHub](https://img.shields.io/badge/GitHub-SonamYadav9022-181717?style=for-the-badge&logo=github)](https://github.com/SonamYadav9022)
 
-<tr>
-
-<td width="33%">
-
-### Backend
-
-- Java
-- Spring Boot
-- Spring Security
-- REST APIs
-- JWT Authentication
-- JDBC
-- API Integration
-- MVC Architecture
-
-</td>
-
-<td width="33%">
-
-### Frontend
-
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Responsive UI
-
-</td>
-
-<td width="33%">
-
-### AI & Data
-
-- Prompt Engineering
-- Machine Learning
-- Pandas
-- NumPy
-- Scikit-Learn
-- Data Cleaning
-- EDA
-- Data Visualization
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🚀 Software Development Lifecycle
+</div>
 
 <div align="center">
 
-```text
-      Requirement Analysis
-               │
-               ▼
-      System Design
-               │
-               ▼
-      Database Design
-               │
-               ▼
-      Backend Development
-               │
-               ▼
-      API Integration
-               │
-               ▼
-      Frontend Development
-               │
-               ▼
-      Testing & Debugging
-               │
-               ▼
-      Deployment
-               │
-               ▼
-      Continuous Improvement
-```
+![](https://komarev.com/ghpvc/?username=SonamYadav9022&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS)
+
+![](https://img.shields.io/github/followers/SonamYadav9022?style=for-the-badge&color=6D28D9&label=FOLLOWERS)
+
+![](https://img.shields.io/github/stars/SonamYadav9022?style=for-the-badge&color=6D28D9&label=TOTAL+STARS)
 
 </div>
+
+---
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello, I'm Sonam Yadav
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│  🎓 Computer Engineering Graduate                            │
+│                                                              │
+│  💼 Software Engineer                                        │
+│                                                              │
+│  🤖 AI & Full Stack Developer                                │
+│                                                              │
+│  📍 Pune, Maharashtra, India                                 │
+│                                                              │
+│  🚀 Building products with Java, Spring Boot & AI            │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+---
+
+# 💜 About Me
+
+I'm a Software Engineer who enjoys building **scalable backend systems**, **AI-powered applications**, and **modern full-stack products**.
+
+I believe software engineering is more than writing code—it's about solving meaningful problems with thoughtful architecture, maintainable code, and a great user experience.
+
+Over the past few years, I've worked on projects ranging from enterprise authentication systems to AI-driven career guidance platforms, continuously expanding my skills in Java, Spring Boot, React, cloud technologies, and machine learning.
+
+---
+
+## 🚀 What Drives Me
+
+- ☕ Building enterprise-grade Java applications
+- 🤖 Creating AI-powered products
+- 🌐 Developing scalable full-stack applications
+- 📚 Learning modern software architecture
+- ☁ Exploring cloud-native technologies
+- 💡 Contributing to impactful projects
+
+---
+
+## 🏅 Highlights
+
+<div align="center">
+
+| Achievement | Status |
+|------------|--------|
+| 🏆 Smart India Hackathon 2025 Finalist | ✅ |
+| ☁ Oracle OCI Generative AI Professional | ✅ |
+| 💻 Full Stack Developer | ✅ |
+| 🤖 AI Product Builder | ✅ |
+| 🌱 Open Source Learner | ✅ |
+
+</div>
+
+---
+
+## 🎯 Current Mission
+
+> **Design and build software that is secure, scalable, intelligent, and genuinely useful—while continuously growing as an engineer.**
+
+---
+
+<div align="center">
+
+### 💜 *"Code with purpose. Build with passion. Learn without limits."*
+
+</div>
+
+---
+<!-- ========================================================== -->
+<!--                  TECH UNIVERSE | SKILLS                    -->
+<!-- ========================================================== -->
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="28"/> Engineering Toolbox
+
+<div align="center">
+
+### Building scalable applications with modern technologies.
+
+</div>
+
+---
+
+# 💻 Technology Stack
+
+<div align="center">
+
+| 💜 Languages | ⚡ Frontend | 🚀 Backend | 🗄 Database |
+|:------------:|:----------:|:----------:|:-----------:|
+| <img src="https://skillicons.dev/icons?i=java,python,js,ts,sql&theme=dark"/> | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark"/> | <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark"/> | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,prisma&theme=dark"/> |
+
+</div>
+
+---
+
+<div align="center">
+
+| ☁ Cloud & DevOps | 🛠 Developer Tools |
+|:----------------:|:-----------------:|
+| <img src="https://skillicons.dev/icons?i=aws,docker,vercel&theme=dark"/> | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark"/> |
+
+</div>
+
+---
+
+# 🧠 Core Engineering Skills
+
+<div align="center">
+
+| Backend Engineering | Frontend Development | AI & Machine Learning |
+|----------------------|----------------------|-----------------------|
+| Java | React | Machine Learning |
+| Spring Boot | Next.js | Prompt Engineering |
+| Spring Security | TypeScript | LLM Applications |
+| REST APIs | Tailwind CSS | Scikit-Learn |
+| JDBC | HTML/CSS | Pandas |
+| JWT Authentication | Responsive UI | NumPy |
+| API Integration | State Management | Data Analytics |
+
+</div>
+
+---
+
+# 📊 Engineering Expertise
+
+| Domain | Proficiency |
+|---------|:----------:|
+| ☕ Java | ████████████████████ 95% |
+| 🌱 Spring Boot | ██████████████████ 90% |
+| ⚛ React | █████████████████ 85% |
+| 🚀 Next.js | ████████████████ 80% |
+| 🛢 SQL | ██████████████████ 90% |
+| 🤖 Artificial Intelligence | ███████████████ 78% |
+| 📈 Machine Learning | █████████████ 70% |
+| ☁ AWS | ███████████ 60% |
+| 🐳 Docker | ██████████ 55% |
+| 🏗 System Design | ██████████ 55% |
+
+---
+
+# 🏗 Development Workflow
+
+```text
+                    IDEAS
+                      │
+                      ▼
+             Requirement Analysis
+                      │
+                      ▼
+               System Design
+                      │
+                      ▼
+             Database Modeling
+                      │
+                      ▼
+          Backend Development
+                      │
+                      ▼
+          REST API Development
+                      │
+                      ▼
+         Frontend Integration
+                      │
+                      ▼
+          Testing & Debugging
+                      │
+                      ▼
+          Deployment & Monitoring
+```
 
 ---
 
 # 🎯 What I Love Building
 
-<table>
+<div align="center">
 
-<tr>
+| 💼 Enterprise Software | 🤖 AI Products | 🌍 Full Stack Apps |
+|------------------------|----------------|--------------------|
+| Authentication Systems | Resume Analysis | SaaS Platforms |
+| REST APIs | Career Guidance | Productivity Apps |
+| Backend Services | AI Chatbots | Dashboards |
+| Role-Based Access | Recommendation Engines | Admin Panels |
+| Secure Applications | Prompt Engineering | Business Solutions |
 
-<td>
-
-### Enterprise Applications
-
-✔ Authentication Systems
-
-✔ REST APIs
-
-✔ CRUD Platforms
-
-✔ Backend Services
-
-✔ Admin Dashboards
-
-</td>
-
-<td>
-
-### AI Products
-
-✔ Career Recommendation Systems
-
-✔ Resume Analysis
-
-✔ AI Chatbots
-
-✔ ML Applications
-
-✔ Prompt Engineering
-
-</td>
-
-<td>
-
-### Full Stack Products
-
-✔ SaaS Platforms
-
-✔ Portfolio Websites
-
-✔ Productivity Apps
-
-✔ Business Solutions
-
-✔ Scalable Web Applications
-
-</td>
-
-</tr>
-
-</table>
+</div>
 
 ---
 
-# 📈 Current Tech Focus
+# 📚 Currently Learning
 
-```text
-Java                 ████████████████████ 100%
+<div align="center">
 
-Spring Boot          ██████████████████░░ 90%
+| 🌟 Focus Area | Status |
+|--------------|--------|
+| Advanced Spring Boot | 🟣🟣🟣🟣⚪ |
+| Spring Security | 🟣🟣🟣🟣⚪ |
+| Docker | 🟣🟣🟣⚪⚪ |
+| Kubernetes | 🟣🟣⚪⚪⚪ |
+| AWS Cloud | 🟣🟣🟣⚪⚪ |
+| Microservices | 🟣🟣⚪⚪⚪ |
+| System Design | 🟣🟣🟣⚪⚪ |
+| LLM Applications | 🟣🟣🟣🟣⚪ |
 
-React                █████████████████░░░ 85%
-
-Next.js              ████████████████░░░░ 80%
-
-Artificial Intelligence
-                     ███████████████░░░░░ 78%
-
-Machine Learning     █████████████░░░░░░░ 70%
-
-Docker               ███████████░░░░░░░░░ 60%
-
-AWS                  ██████████░░░░░░░░░░ 55%
-
-System Design        █████████░░░░░░░░░░░ 50%
-```
+</div>
 
 ---
 
@@ -387,76 +253,66 @@ System Design        █████████░░░░░░░░░░�
 <div align="center">
 
 | Principle | Description |
-|-----------|-------------|
-| 🧹 Clean Code | Writing readable, maintainable, and scalable software |
-| 🏗 Scalable Architecture | Designing systems that grow with users |
-| 🔒 Security First | Authentication, authorization, and secure APIs |
-| ⚡ Performance | Building fast and efficient applications |
-| 🤝 Collaboration | Learning, sharing, and contributing as a team |
-| 📚 Continuous Learning | Constantly improving through projects and practice |
+|------------|-------------|
+| 🧹 Clean Code | Code should be readable before it's clever. |
+| 🏗 Scalability | Build for tomorrow, not just today. |
+| 🔒 Security | Authentication and data protection come first. |
+| ⚡ Performance | Optimize only where it matters most. |
+| 🤝 Collaboration | Great software is built by great teams. |
+| 📖 Continuous Learning | Every project teaches something new. |
 
 </div>
 
 ---
-
-# 🎖 Technologies I'm Exploring in 2026
 
 <div align="center">
 
-| Currently Learning | Coming Next |
-|--------------------|------------|
-| Spring Security | Microservices |
-| Docker | Kubernetes |
-| AWS | CI/CD Pipelines |
-| System Design | Distributed Systems |
-| LLM Applications | Vector Databases |
-| RAG Architecture | AI Agents |
+## ⚡ "Technology changes every day. Curiosity is what keeps an engineer relevant."
+
+</div>
+
+---
+<!-- ========================================================== -->
+<!--                 FEATURED PROJECTS SHOWCASE                 -->
+<!-- ========================================================== -->
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+### *Building products that solve real-world problems through modern software engineering.*
 
 </div>
 
 ---
 
-<p align="center">
-
-### ⚡ *"Technology evolves every day, and so do I."*
-
-</p>
-
----
-<!-- ============================================================= -->
-<!--                     FEATURED PROJECTS                         -->
-<!-- ============================================================= -->
-
-# 🚀 Featured Engineering Projects
-
-> *"I enjoy building software that combines strong engineering principles with practical solutions to real-world problems."*
-
----
-
-# ⭐ Flagship Project
+# 🌟 Flagship Product
 
 <div align="center">
 
 # SkillSage
+
 ### AI-Powered Adaptive Career Roadmap Generator
 
-**Helping students discover the fastest path to their dream career through Artificial Intelligence.**
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Category-AI_Product-6D28D9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Type-Full_Stack-5B21B6?style=for-the-badge"/>
 
 </div>
 
 ---
 
-### 🌟 Overview
+## 📖 Overview
 
-SkillSage is an intelligent career guidance platform that analyzes a user's profile, identifies skill gaps, and generates personalized learning roadmaps using AI-powered recommendations.
-
-Designed with scalability in mind, the application combines modern full-stack engineering, secure authentication, cloud deployment, and AI-assisted decision-making.
+SkillSage is an AI-powered career guidance platform that analyzes user profiles, detects skill gaps, and generates personalized learning roadmaps to help students and professionals achieve their career goals.
 
 ---
 
-### 🛠 Technology Stack
+## ⚙ Tech Stack
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,prisma,postgres,git,github,vercel"/>
 
@@ -464,74 +320,50 @@ Designed with scalability in mind, the application combines modern full-stack en
 
 ---
 
-### 📊 Project Highlights
+## ✨ Key Features
 
-| Feature | Description |
-|----------|-------------|
-| 🤖 AI Resume Analysis | Parses resumes to understand skills and experience |
-| 🎯 Skill Gap Detection | Finds missing skills for target roles |
-| 🛣 Career Roadmaps | Generates personalized learning paths |
-| 📈 ATS Friendly | Dynamic resume scoring and optimization |
-| 💬 AI Chat Assistant | Interactive career guidance chatbot |
-| 🔒 Authentication | Secure login and protected routes |
-| ☁ Deployment | Hosted on Vercel |
-| 🏗 Architecture | Modular and scalable codebase |
+- 🤖 AI Resume Analysis
+- 🎯 Skill Gap Detection
+- 📈 ATS Score Analysis
+- 🛣 Personalized Career Roadmaps
+- 💬 AI Career Chatbot
+- 📚 Course Recommendations
+- 🔐 Secure Authentication
+- 📱 Fully Responsive UI
 
 ---
 
-### 📌 Engineering Impact
+## 🏗 Engineering Highlights
 
-✅ Type-safe architecture
-
-✅ AI-powered workflow
-
-✅ Enterprise folder structure
-
-✅ Modern UI/UX
-
-✅ Reusable components
-
-✅ Responsive Design
-
-✅ Clean API integration
-
-✅ Production-ready deployment
+| Category | Details |
+|----------|---------|
+| Architecture | Modular Full Stack |
+| Frontend | Next.js + React |
+| Backend | API Routes |
+| Database | PostgreSQL + Prisma |
+| Authentication | NextAuth |
+| Deployment | Vercel |
+| AI | Groq LLM Integration |
 
 ---
-
-### 🔗 Repository
-
-<p align="center">
-
-<a href="https://github.com/SonamYadav9022/SkillSage">
-
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
-
----
-
-# 🔐 Authentication & Role-Based Access Control
 
 <div align="center">
 
-### Enterprise Authentication System
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/SonamYadav9022/SkillSage)
 
 </div>
 
 ---
 
-### Overview
+# 🔐 Authentication & RBAC System
 
-A secure authentication platform implementing JWT authentication, Spring Security, BCrypt encryption, and role-based authorization following enterprise backend practices.
+Enterprise-grade authentication platform implementing secure login, registration, JWT authentication, and role-based authorization.
 
 ---
 
 ### Tech Stack
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,react,typescript"/>
 
@@ -541,91 +373,65 @@ A secure authentication platform implementing JWT authentication, Spring Securit
 
 ### Features
 
-| Capability | Details |
-|------------|---------|
-| 🔑 JWT Authentication | Secure token-based authentication |
-| 🔒 Spring Security | Enterprise-grade security |
-| 👤 Role Management | USER & ADMIN authorization |
-| 🔐 Password Encryption | BCrypt hashing |
-| 🌐 REST APIs | Secure backend APIs |
-| ⚛ React Frontend | Responsive authenticated UI |
+- JWT Authentication
+- Spring Security
+- BCrypt Password Encryption
+- User & Admin Roles
+- Protected REST APIs
+- Secure React Dashboard
 
 ---
 
-### Repository
+<div align="center">
 
-<p align="center">
+[![Repository](https://img.shields.io/badge/View_Project-6D28D9?style=for-the-badge&logo=github)](https://github.com/SonamYadav9022/auth-system)
 
-<a href="https://github.com/SonamYadav9022/auth-system">
-
-<img src="https://img.shields.io/badge/View_Project-6D28D9?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
+</div>
 
 ---
 
-# 📋 Task Manager
+# 📋 TaskFlow
 
-### Enterprise CRUD Application
-
----
-
-Built using Java Spring Boot and MySQL to demonstrate enterprise backend architecture with clean RESTful API development.
+Modern full-stack task management platform with authentication, CRUD operations, and clean architecture.
 
 ---
 
 ### Tech Stack
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,javascript"/>
-
-</p>
-
----
-
-### Features
-
-- REST APIs
-- CRUD Operations
-- JDBC
-- Railway Deployment
-- MVC Architecture
-- Environment Configuration
-- Database Connectivity
-- Responsive Frontend
-
----
-
-### Repository
-
 <p align="center">
 
-<a href="https://github.com/SonamYadav9022/TaskManager-FullStack">
-
-<img src="https://img.shields.io/badge/GitHub-Repository-4F46E5?style=for-the-badge&logo=github"/>
-
-</a>
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,prisma,sqlite"/>
 
 </p>
+
+---
+
+### Highlights
+
+- Task Management
+- User Authentication
+- CRUD Operations
+- Responsive UI
+- Prisma ORM
+- JWT Security
+
+<div align="center">
+
+[![Repository](https://img.shields.io/badge/View_Project-4F46E5?style=for-the-badge&logo=github)](https://github.com/SonamYadav9022/TaskFlow)
+
+</div>
 
 ---
 
 # 🎵 SyncStream Controller
 
-### Collaborative Spotify Controller
+Collaborative Spotify controller where multiple users can join rooms and control playback together.
 
 ---
 
-A collaborative music platform where users join shared rooms to control Spotify playback together using OAuth2 authentication and REST APIs.
+### Built With
 
----
-
-### Technology
-
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,django,react,sqlite"/>
 
@@ -635,43 +441,30 @@ A collaborative music platform where users join shared rooms to control Spotify 
 
 ### Features
 
-| Feature | Description |
-|----------|-------------|
-| 🎵 Spotify Integration | OAuth2 authentication |
-| 👥 Shared Rooms | Join using unique room codes |
-| 🗳 Voting System | Collaborative playback control |
-| ⚡ Django REST API | Backend services |
-| ⚛ React Frontend | Modern responsive interface |
+- Spotify OAuth2
+- Room-Based Sessions
+- Collaborative Playback
+- Voting System
+- Django REST APIs
+- React Frontend
 
----
+<div align="center">
 
-### Repository
+[![Repository](https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github)](https://github.com/SonamYadav9022/SyncStream-Controller)
 
-<p align="center">
-
-<a href="https://github.com/SonamYadav9022/SyncStream-Controller">
-
-<img src="https://img.shields.io/badge/View_Source-7C3AED?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
+</div>
 
 ---
 
 # 🤖 Career Readiness Risk Analyzer
 
-### Machine Learning Project
-
----
-
-A machine learning application that predicts career readiness using academic, technical, and skill-based indicators.
+Machine Learning project that predicts career readiness using academic and technical skill indicators.
 
 ---
 
 ### Tech Stack
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python"/>
 
@@ -686,50 +479,44 @@ A machine learning application that predicts career readiness using academic, te
 
 ---
 
-### Machine Learning Pipeline
+### ML Pipeline
 
 ```text
 Dataset
-    │
-    ▼
+   │
+   ▼
 Data Cleaning
-    │
-    ▼
+   │
+   ▼
 Feature Engineering
-    │
-    ▼
+   │
+   ▼
 Model Training
-    │
-    ▼
-Prediction
-    │
-    ▼
+   │
+   ▼
 Evaluation
+   │
+   ▼
+Prediction
 ```
 
 ---
 
-### Repository
+<div align="center">
 
-<p align="center">
+[![Repository](https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github)](https://github.com/SonamYadav9022/Career-Readiness-Risk-Analyzer-Foundational-ML-Project)
 
-<a href="https://github.com/SonamYadav9022/Career-Readiness-Risk-Analyzer-Foundational-ML-Project">
-
-<img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
+</div>
 
 ---
 
-# 📊 Engineering Highlights
+# 📊 Project Snapshot
 
 <div align="center">
 
-| Projects | Technologies | Domains |
-|----------:|-------------:|---------:|
-| **10+** | **20+** | **AI • Full Stack • Backend • ML** |
+| 🚀 Projects | 💻 Technologies | 🤖 AI Projects | 🌍 Domains |
+|:-----------:|:---------------:|:--------------:|:----------:|
+| **10+** | **25+** | **4+** | **AI • Backend • Full Stack • ML** |
 
 </div>
 
@@ -737,50 +524,54 @@ Evaluation
 
 <div align="center">
 
-## 💜 *"Every project is an opportunity to learn, improve, and build software that creates real impact."*
+### ⭐ *"Every project started as an idea—and became an opportunity to learn, improve, and build something meaningful."*
 
 </div>
 
 ---
-<!-- ============================================================= -->
-<!--             EXPERIENCE • ACHIEVEMENTS • EDUCATION             -->
-<!-- ============================================================= -->
+<!-- ========================================================== -->
+<!--          EXPERIENCE • EDUCATION • ACHIEVEMENTS             -->
+<!-- ========================================================== -->
 
 # 💼 Professional Experience
 
-> *"Every opportunity has strengthened my engineering mindset—from analyzing data to designing full-stack products."*
+> *"Every opportunity has strengthened my ability to design scalable software, analyze data, and solve real-world engineering problems."*
 
 ---
+
+<div align="center">
 
 ## 🚀 Java Development Intern
 
-### **OASIS INFOBYTE**
+### OASIS INFOBYTE
 
-**May 2026 – June 2026**
-
-<p align="left">
+**May 2026 — June 2026**
 
 <img src="https://img.shields.io/badge/Internship-Java_Development-6D28D9?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Duration-1_Month-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Experience-Full_Stack-5B21B6?style=for-the-badge"/>
 
-</p>
+</div>
 
 ### Responsibilities
 
-- Designed Java applications using Object-Oriented Programming principles.
-- Developed console-based projects to strengthen programming fundamentals.
-- Built a complete full-stack application using Java technologies.
-- Implemented reusable and maintainable code.
-- Improved debugging, testing, and logical problem-solving skills.
-- Worked with Git & GitHub version control.
-- Practiced clean coding standards and project organization.
+✔ Built Java applications using Object-Oriented Programming.
+
+✔ Developed multiple Java projects from scratch.
+
+✔ Implemented clean coding practices.
+
+✔ Improved debugging and logical problem-solving skills.
+
+✔ Worked with Git & GitHub professionally.
+
+✔ Applied software engineering best practices.
 
 ---
 
-### Technologies
+### Tech Used
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=java,git,github,vscode"/>
 
@@ -788,32 +579,41 @@ Evaluation
 
 ---
 
-# 📊 Data Analyst Intern
+<div align="center">
 
-### **Internship Studio**
+## 📊 Data Analyst Intern
 
-**January 2025 – February 2025**
+### Internship Studio
 
-<p align="left">
+**January 2025 — February 2025**
 
 <img src="https://img.shields.io/badge/Internship-Data_Analytics-4F46E5?style=for-the-badge"/>
 
-</p>
+</div>
 
 ### Responsibilities
 
-- Cleaned and transformed real-world datasets.
-- Performed Exploratory Data Analysis (EDA).
-- Built interactive dashboards.
-- Generated business insights using Python and SQL.
-- Worked with structured and unstructured datasets.
-- Supported data-driven decision making.
+✔ Data Cleaning
+
+✔ Exploratory Data Analysis (EDA)
+
+✔ SQL Queries
+
+✔ Dashboard Development
+
+✔ Power BI Reporting
+
+✔ Business Insights
+
+✔ Data Validation
+
+✔ Data Visualization
 
 ---
 
-### Technologies
+### Tech Used
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,mysql"/>
 
@@ -821,42 +621,25 @@ Evaluation
 
 **Tools**
 
-- Power BI
 - Pandas
 - NumPy
+- Power BI
 - Excel
+- Jupyter Notebook
 
 ---
 
 # 🎓 Education
 
-<table>
+<div align="center">
 
-<tr>
+| Degree | Institute | Duration | Score |
+|:------:|-----------|:--------:|:-----:|
+| 🎓 B.E. Computer Engineering | Dr. D. Y. Patil Institute of Engineering, Management & Research | 2022–2026 | **CGPA 7.98/10** |
+| 📚 HSC | Pratibha Junior College | 2020–2022 | **85%** |
+| 🏫 SSC | Prathamesh English School | 2019–2020 | **90.40%** |
 
-<td width="20%">
-
-🎓
-
-</td>
-
-<td>
-
-## Bachelor of Engineering
-
-**Computer Engineering**
-
-Dr. D. Y. Patil Institute of Engineering, Management & Research
-
-**CGPA:** **7.98 / 10**
-
-**2022 – 2026**
-
-</td>
-
-</tr>
-
-</table>
+</div>
 
 ---
 
@@ -866,11 +649,11 @@ Dr. D. Y. Patil Institute of Engineering, Management & Research
 
 | Achievement | Description |
 |-------------|-------------|
-| 🥇 Smart India Hackathon 2025 Finalist | National Finalist for **SenseStamp**, an IoT + Blockchain solution for food traceability |
-| 🤖 Oracle OCI Generative AI Professional | Oracle Certified in Prompt Engineering, LLMs, RAG & Generative AI |
-| 🚀 Full Stack Developer | Built multiple enterprise-grade applications using Java, Spring Boot, React & Next.js |
-| 💡 AI Product Builder | Designed AI-powered career guidance and recommendation systems |
-| 📚 Continuous Learner | Constantly expanding expertise in AI, Cloud, Backend Engineering & System Design |
+| 🏅 Smart India Hackathon 2025 Finalist | National Finalist with **Team Ataltra** for **SenseStamp**, an IoT & Blockchain-based food traceability solution |
+| 🤖 Oracle OCI Generative AI Professional | Certified in Prompt Engineering, LLMs, RAG, and Generative AI |
+| 🚀 AI Product Builder | Developed multiple AI-powered applications including **SkillSage** |
+| 💻 Full Stack Engineer | Built enterprise-ready Java, Spring Boot, React & Next.js applications |
+| 🌱 Lifelong Learner | Continuously learning System Design, Cloud, AI & Backend Engineering |
 
 </div>
 
@@ -878,19 +661,22 @@ Dr. D. Y. Patil Institute of Engineering, Management & Research
 
 # 👑 Leadership Experience
 
+<div align="center">
+
 ## 🎭 Creative Team Lead & Set Designer
 
 ### Firodiya Karandak & Sakaal Karandak
 
 **2023 – 2024**
 
+</div>
+
 ### Responsibilities
 
-- Led cross-functional creative teams.
-- Planned and executed stage productions.
-- Coordinated deadlines and resource allocation.
-- Improved communication and leadership skills.
-- Managed collaborative workflows under strict timelines.
+- Led creative teams during inter-college competitions.
+- Coordinated planning and execution under strict deadlines.
+- Managed task distribution and collaboration.
+- Improved leadership, communication, and project management skills.
 
 ---
 
@@ -900,7 +686,7 @@ Dr. D. Y. Patil Institute of Engineering, Management & Research
 
 ## ☁ Oracle
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Oracle_Generative_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
@@ -908,9 +694,9 @@ Dr. D. Y. Patil Institute of Engineering, Management & Research
 
 ---
 
-## ☕ Java
+## ☕
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/DSA_with_Java-Apna_College-6D28D9?style=for-the-badge"/>
 
@@ -920,7 +706,7 @@ Dr. D. Y. Patil Institute of Engineering, Management & Research
 
 ## 📊 Data Science
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Data_Science-CodeWithHarry-5B21B6?style=for-the-badge"/>
 
@@ -928,17 +714,17 @@ Dr. D. Y. Patil Institute of Engineering, Management & Research
 
 ---
 
-## 🎯 Currently Pursuing
+## 📚 Currently Learning
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/AWS-Cloud_Computing-FF9900?style=for-the-badge&logo=amazonaws"/>
 
-<img src="https://img.shields.io/badge/System_Design-Learning-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring_Security-Learning-6DB33F?style=for-the-badge&logo=spring"/>
 
-<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker"/>
 
-<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/System_Design-Architecture-4F46E5?style=for-the-badge"/>
 
 </p>
 
@@ -949,221 +735,164 @@ Dr. D. Y. Patil Institute of Engineering, Management & Research
 <div align="center">
 
 <a href="https://leetcode.com/u/SonamLeets/">
-<img src="https://img.shields.io/badge/LeetCode-Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/LeetCode-Problem_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
-<a href="https://www.geeksforgeeks.org/user/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Practice-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<a href="#">
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks"/>
+
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+<a href="#">
 
-&nbsp;
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
 
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive_Coding-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🌟 Beyond Coding
+# 🌍 Beyond Engineering
 
-<table>
+<div align="center">
 
-<tr>
+| ❤️ Interests | 📚 Currently Learning | 🎯 Career Goals |
+|--------------|-----------------------|-----------------|
+| Artificial Intelligence | Spring Security | Software Engineer |
+| Product Engineering | Docker | Backend Engineer |
+| Cloud Computing | AWS | AI Engineer |
+| Open Source | Kubernetes | Full Stack Engineer |
+| System Design | Microservices | Product Builder |
 
-<td width="33%">
-
-### 💡 Interests
-
-- Artificial Intelligence
-- Software Engineering
-- Product Development
-- Cloud Computing
-- Open Source
-
-</td>
-
-<td width="33%">
-
-### 📖 Learning
-
-- System Design
-- Microservices
-- Kubernetes
-- LLM Applications
-- Design Patterns
-
-</td>
-
-<td width="33%">
-
-### 🎯 Career Goals
-
-- Software Engineer
-- AI Engineer
-- Backend Engineer
-- Product Engineer
-- Open Source Contributor
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📈 Journey So Far
-
-```text
-2022  █ Started B.E. Computer Engineering
-
-2023  █ Strong Foundation in Java & Programming
-
-2024  █ Explored Full Stack Development
-
-2025  █ Data Analytics Internship
-      █ Oracle OCI Generative AI Certified
-      █ Smart India Hackathon Finalist
-
-2026  █ Java Development Internship
-      █ Built Enterprise Projects
-      █ AI Product Development
-      █ Open to Software Engineering Opportunities
-```
+</div>
 
 ---
 
 <div align="center">
 
-## 🌟 *"Success is built one project, one bug fix, and one learning experience at a time."*
+## 💜 *"Every project, every bug, and every challenge is another step toward becoming a better engineer."*
 
 </div>
 
 ---
-<!-- ============================================================= -->
-<!--              GITHUB ANALYTICS & FINAL SECTION                 -->
-<!-- ============================================================= -->
+<!-- ========================================================== -->
+<!--             GITHUB ANALYTICS • CONNECT • FOOTER            -->
+<!-- ========================================================== -->
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SonamYadav9022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SonamYadav9022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonamYadav9022&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonamYadav9022&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+<div align="center">
 
-<p align="center">
+<img src="https://streak-stats.demolab.com?user=SonamYadav9022&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=SonamYadav9022&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Activity
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonamYadav9022&theme=tokyo-night&hide_border=true&radius=16&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonamYadav9022&theme=tokyo-night&hide_border=true&area=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SonamYadav9022&theme=algolia&no-frame=true&no-bg=true&margin-w=20&margin-h=20&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SonamYadav9022&theme=algolia&no-frame=true&row=2&column=4"/>
 
-</p>
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/SonamYadav9022/SonamYadav9022/output/github-contribution-grid-snake-dark.svg"/>
 
-</p>
+</div>
 
 ---
 
-# 📅 Contribution Calendar
+# 📊 Contribution Summary
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-contributor-stats.vercel.app/api?username=SonamYadav9022&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🎯 Current Focus
+# 🚀 Current Focus
 
 ```yaml
-name: Sonam Yadav
+Software Engineering:
+  - Enterprise Java Development
+  - Spring Boot
+  - Backend APIs
+  - Authentication Systems
 
-currently_working_on:
-  - AI Powered Career Roadmap Generator
-  - Enterprise Java Backend Projects
-  - Spring Boot REST APIs
-  - Authentication & Security Systems
+Artificial Intelligence:
+  - LLM Applications
+  - Prompt Engineering
+  - AI Product Development
+  - Machine Learning
 
-currently_learning:
-  - Advanced Spring Boot
+Currently Learning:
   - Spring Security
   - Docker
   - Kubernetes
   - AWS
-  - Microservices
   - System Design
-  - Machine Learning
-  - LLM Applications
-  - RAG Architecture
+  - Microservices
 
-currently_exploring:
-  - Distributed Systems
-  - Event-Driven Architecture
-  - Cloud Native Development
-  - AI Agents
-  - Vector Databases
+Building:
+  - AI Products
+  - Java Backend Projects
+  - Open Source Projects
 
-open_to:
+Open To:
+  - Java Developer
+  - Java Full Stack Engineer
   - Software Engineer
-  - Backend Developer
-  - Full Stack Developer
+  - Backend Engineer
+  - Full Stack Engineer
   - AI Engineer
-  - Graduate Software Engineer
-  - Open Source Collaboration
 ```
 
 ---
 
-# 🌍 Let's Connect
+# 🌎 Let's Connect
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:sonamyadav246810@gmail.com">
 
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 </a>
 
@@ -1171,7 +900,7 @@ open_to:
 
 <a href="https://www.linkedin.com/in/sonamyadav9022/">
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Sonam_Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </a>
 
@@ -1179,34 +908,65 @@ open_to:
 
 <a href="https://github.com/SonamYadav9022">
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
 &nbsp;
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://meet-sonam-portfolio.vercel.app/">
 
-<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </a>
-
-</p>
-
----
-
-# 💜 Quote I Live By
-
-<div align="center">
-
-### *"The best engineers don't just write code—they build solutions that make a difference."*
 
 </div>
 
 ---
 
-<p align="center">
+# 💜 Fun Facts
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient&customColorList=12,20,24,25,26"/>
+<div align="center">
 
-</p>
+| 💡 | |
+|:--:|---|
+| ☕ | Java is my favorite language for backend development. |
+| 🤖 | I enjoy building AI-powered applications that solve practical problems. |
+| 🌱 | I believe learning never stops—there's always something new to explore. |
+| 🚀 | My goal is to build software used by millions of people. |
+| 🎯 | I'm always looking for challenging engineering opportunities. |
+
+</div>
+
+---
+
+# 💭 Favorite Quote
+
+<div align="center">
+
+> ### *"First, solve the problem. Then, write the code."*  
+> **— John Johnson**
+
+</div>
+
+---
+
+# 💜 Thanks for Visiting!
+
+<div align="center">
+
+### ⭐ If you like my work, consider starring my repositories.
+
+### 🤝 I'm always open to collaborating on interesting projects.
+
+### 🚀 Let's build something amazing together!
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=12,20,24,25,30"/>
+
+</div>
