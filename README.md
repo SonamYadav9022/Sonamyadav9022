@@ -18,8 +18,11 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/https://meet-sonam-portfolio.vercel.app/?style=for-the-badge)](#)
+<a href="https://meet-sonam-portfolio.vercel.app/">
 
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sonam_Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonamyadav9022/)
 
 [![Email](https://img.shields.io/badge/Gmail-sonamyadav246810@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonamyadav246810@gmail.com)
