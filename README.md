@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Coming_Soon-6D28D9?style=for-the-badge)](#)
+[![Portfolio](https://img.shields.io/badge/https://meet-sonam-portfolio.vercel.app/?style=for-the-badge)](#)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sonam_Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonamyadav9022/)
 
@@ -349,7 +349,19 @@ SkillSage is an AI-powered career guidance platform that analyzes user profiles,
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/SonamYadav9022/SkillSage)
+<a href="https://skill-sage-sand.vercel.app" target="_blank">
+
+<img src="https://img.shields.io/badge/🚀_Live_Demo-00C853?style=for-the-badge"/>
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/SonamYadav9022/SkillSage" target="_blank">
+
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
 
 </div>
 
@@ -384,7 +396,19 @@ Enterprise-grade authentication platform implementing secure login, registration
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/View_Project-6D28D9?style=for-the-badge&logo=github)](https://github.com/SonamYadav9022/auth-system)
+<a href="YOUR_AUTH_SYSTEM_LIVE_LINK">
+
+<img src="https://img.shields.io/badge/🚀_Live_Demo-00C853?style=for-the-badge"/>
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/SonamYadav9022/auth-system">
+
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
 
 </div>
 
@@ -417,94 +441,19 @@ Modern full-stack task management platform with authentication, CRUD operations,
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/View_Project-4F46E5?style=for-the-badge&logo=github)](https://github.com/SonamYadav9022/TaskFlow)
+<a href="YOUR_TASKFLOW_LIVE_LINK">
 
-</div>
+<img src="https://img.shields.io/badge/🚀_Live_Demo-00C853?style=for-the-badge"/>
 
----
+</a>
 
-# 🎵 SyncStream Controller
+&nbsp;&nbsp;
 
-Collaborative Spotify controller where multiple users can join rooms and control playback together.
+<a href="https://github.com/SonamYadav9022/TaskFlow">
 
----
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github"/>
 
-### Built With
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,react,sqlite"/>
-
-</p>
-
----
-
-### Features
-
-- Spotify OAuth2
-- Room-Based Sessions
-- Collaborative Playback
-- Voting System
-- Django REST APIs
-- React Frontend
-
-<div align="center">
-
-[![Repository](https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github)](https://github.com/SonamYadav9022/SyncStream-Controller)
-
-</div>
-
----
-
-# 🤖 Career Readiness Risk Analyzer
-
-Machine Learning project that predicts career readiness using academic and technical skill indicators.
-
----
-
-### Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-</p>
-
-**Libraries**
-
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
-
----
-
-### ML Pipeline
-
-```text
-Dataset
-   │
-   ▼
-Data Cleaning
-   │
-   ▼
-Feature Engineering
-   │
-   ▼
-Model Training
-   │
-   ▼
-Evaluation
-   │
-   ▼
-Prediction
-```
-
----
-
-<div align="center">
-
-[![Repository](https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github)](https://github.com/SonamYadav9022/Career-Readiness-Risk-Analyzer-Foundational-ML-Project)
+</a>
 
 </div>
 
