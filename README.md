@@ -15,6 +15,15 @@
 </div>
 
 ---
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SonamYadav9022/SonamYadav9022/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
 
 <div align="center">
 
@@ -766,16 +775,6 @@ Modern full-stack task management platform with authentication, CRUD operations,
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SonamYadav9022&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SonamYadav9022/SonamYadav9022/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
